@@ -9,3 +9,5 @@ Git is free software distributed under the GPL.
 GitHub finished!
 
 Git Branch
+
+Creating a new branch is quick & simple.
