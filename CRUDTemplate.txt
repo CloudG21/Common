@@ -1,34 +1,34 @@
-﻿// saveUI.jsp
+/** 添加页面 saveUI.jsp */
 public String addUI() throws Exception
 	{
 		return "saveUI";
 	}
 
-// redirectAction
+/** 添加 redirectAction到列表页面 */
 public String add() throws Exception
 	{
 		return "toList";
 	}
 
-// redirectAction
+/** 删除 redirectAction到列表页面 */
 public String delete() throws Exception
 	{
 		return "toList";
 	}
 
-// saveUI.jsp
+/** 修改页面 saveUI.jsp */
 public String editUI() throws Exception
 	{
 		return "saveUI";
 	}
 
-// redirectAction
+/** 修改 redirectAction到列表页面 */
 public String edit() throws Exception
 	{
 		return "toList";
 	}
 
-// list.jsp
+/** 列表页面 list.jsp */
 public String list() throws Exception
 	{
 		return "list";
